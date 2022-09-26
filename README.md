@@ -1,4 +1,4 @@
-# flutter_application_3
+# App de cálculo de IMC com dart e flutter, feito em aula, na disciplina de dispositivos móveis.
 
 A new Flutter project.
 
